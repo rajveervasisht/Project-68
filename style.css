@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+marquee {
+    text-decoration: underline;
+    text-decoration-color: crimson;
+    text-align: center;
+    text-size: 30;
+}
